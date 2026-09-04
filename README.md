@@ -77,5 +77,5 @@ Tabela prikazuje število napak ter vrednosti $LA$ za meri $LE$ in $LS$ ter vred
 | A | Llama-3.1 | 4 | 1 | 0,430 | 0,745 | 0,581 | 0,569 |
 | B | gpt-oss | 3 | 0 | 0,606 | 0,835 | 0,764 | 0,792 |
 | B | Llama-3.1 | 4 | 2 | 0,585 | 0,850 | 0,600 | 0,585 |
-| Povprečje | | 4,75 | 0,75 | 0,544 | 0,797 | 0,664 | 0,664 |
+| Povprečje | | 3,75 | 0,75 | 0,544 | 0,797 | 0,664 | 0,664 |
 
